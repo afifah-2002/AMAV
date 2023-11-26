@@ -20,22 +20,14 @@ The user has provision to select from a variety of available items by applying f
   manipulation of elements and behavior within web pages.
   
 ## User Interface
-<div align="center">
-    <img src="/amav/amav1.png" alt="Image 1" width="250" height="580" style="display: inline-block; margin-right: 20px;">
-    <img src="/amav/amav3.png" alt="Image 2" width="250" height="580" style="display: inline-block; margin-right: 20px;">
-    <img src="/amav/amav4.png" alt="Image 3" width="250" height="580" style="display: inline-block;">
-</div>
+![](/amav/amav1.png)
 <br><br><br><br>
-<div align="center">
-    <img src="/amav/amav5.png" alt="Image 1" width="250" height="580" style="display: inline-block; margin-right: 20px;">
-    <img src="/amav/amav6.png" alt="Image 2" width="250" height="580" style="display: inline-block; margin-right: 20px;">
-    <img src="/amav/amav7.png" alt="Image 3" width="250" height="580" style="display: inline-block;">
-</div>
-<div align="center">
-    <img src="/amav/amav8.png" alt="Image 1" width="250" height="580" style="display: inline-block; margin-right: 20px;">
-    <img src="/amav/amav9.png" alt="Image 2" width="250" height="580" style="display: inline-block; margin-right: 20px;">
-    <img src="/amav/amav10.png" alt="Image 3" width="250" height="580" style="display: inline-block;">
-</div>
-
+![](/amav/amav3.png)
+<br><br><br><br>
+![]/amav/amav6.png)
+<br><br><br><br>
+![]/amav/amav9.png)
+<br><br><br><br>
+![]/amav/amav11.png)
 
 
