@@ -27,7 +27,9 @@ The user has provision to select from a variety of available items by applying f
 ![](/amav/amav6.png)
 <br><br><br><br>
 ![](/amav/amav9.png)
-<br><br><br><br>
-![](/amav/amav11.png)
+##  System Architecture
+<p align="center">
+  <img src="/amav/amav11.png"/>
+</p>
 
 
