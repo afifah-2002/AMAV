@@ -24,10 +24,10 @@ The user has provision to select from a variety of available items by applying f
 <br><br><br><br>
 ![](/amav/amav3.png)
 <br><br><br><br>
-![]/amav/amav6.png)
+![](/amav/amav6.png)
 <br><br><br><br>
-![]/amav/amav9.png)
+![](/amav/amav9.png)
 <br><br><br><br>
-![]/amav/amav11.png)
+![](/amav/amav11.png)
 
 
